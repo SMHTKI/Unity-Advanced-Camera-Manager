@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/StarterAssets/ThirdPersonController/Scenes/Playground.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
